@@ -8,3 +8,5 @@ deep_learning_for_text.ipynb showcases multiple deep learning algorithms for NLP
 seq2seq_models.ipynb showcases models for language translation from English to Spanish. The different models are - 
   1. RNN's (with GRU)
   2. Transformers (with Positional Embedding)
+
+generative_deep_learning.ipynb uses the Transformer architecture to generate fictional movie reviews, based on a dataset of sample reviews. 
